@@ -6,7 +6,7 @@ x = 'Hello, world!!!'
 def foo(para):
     print(para)
 
-# foo(x)
+foo(x)
 
 
 
