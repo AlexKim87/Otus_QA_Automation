@@ -130,3 +130,7 @@ dmypy.json
 
 #Added by AlexKim87
 .idea/
+.DS_Store
+books.csv
+users.json
+
